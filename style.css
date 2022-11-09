@@ -1,0 +1,30 @@
+h2{
+
+    color: red;
+}
+.first-div{
+    height: 200px;
+    width: 200px;
+    background: blue;
+}
+.first-div:hover{
+
+    background: orange;
+    cursor:pointer;
+
+    transition: .5s;
+}
+
+.header-menu li:nth-child(even) a{
+
+       color: red;
+      
+
+
+}
+#anotherID{
+
+}
+div p{
+    color: blue;
+}
